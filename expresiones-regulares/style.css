@@ -38,3 +38,8 @@ h1{
 #BtnEnviar:hover{
     background: rgb(197, 123, 13) ;
 }
+
+.parrafo{
+    margin-top: 20px;
+    padding: 20px;
+}

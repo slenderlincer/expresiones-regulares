@@ -1,0 +1,40 @@
+html{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: -webkit-linear-gradient(to right #01d8c6, #43cea2 );
+    background: linear-gradient(to right, #01d8c6, #43cea2) ;
+
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+#app{
+    margin: 100px;
+    display:flex;
+    height: 40px;
+    position:relative;
+    justify-content: center;
+    align-items: center;
+}
+
+#BtnEnviar{
+    border-radius: 50px;
+    margin-top: 20px;
+    width: 250px;
+    padding: 10px;
+    background: yellow;
+}
+
+#BtnEnviar:hover{
+    background: rgb(197, 123, 13) ;
+}
